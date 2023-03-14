@@ -3,5 +3,6 @@
 
 Models used :
 
---> Correlation and Regression built for the prediction of rainfall
---> One way ANOVA built for comparision between the amount rainfall observed in different years
+Correlation and Regression built for the prediction of rainfall
+
+ One way ANOVA built for comparision between the amount rainfall observed in different years
